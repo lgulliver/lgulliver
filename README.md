@@ -17,3 +17,4 @@ I used to primarily be a .NET developer before making the move to be a DevOps Ar
 - 📅 [DevOps Notts on Meetup](https://www.meetup.com/DevOps-Notts/)
 - 📺 [DevOps Notts on YouTube](https://www.youtube.com/channel/UC0zWEAwC93LSdVaZjM1aKag)
 - ☕ [My Blog](https://lgulliver.github.io)
+- 🚀 [Sessionize](https://sessionize.com/liam-gulliver)
