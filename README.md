@@ -1,10 +1,12 @@
 # Hi, I'm Liam 👋🏻☁
 
-![Liam Gulliver - DevOps & SDLC Coach - Public Speaker - Azure Specialist - Co-founder of DevOps Notts - Co-host Agile Engineering Podcast](profilebanner.png)
+![Liam Gulliver - DevOps & SDLC Coach - Public Speaker - Azure Specialist - Co-founder of DevOps Notts - Co-host Agile Engineering Podcast](https://raw.githubusercontent.com/lgulliver/lgulliver/master/profilebanner.png)
 
 I'm passionate about the tech industry and software engineering in all aspects, with my main focus these days being DevOps and transforming organisations to be able to ship more value, faster, safer and with happier teams. I love to give back to the community through the podcast I co-host, my blog and the meetup I co-founded and co-organise.
 
 If its something you can do in software engineering, I've probably been there, done that, bought the t-shirt and opened a t-shirt stall for it!
+
+I used to primarily be a .NET developer before making the move to be a DevOps Architect and now I'm a consultant covering everything from organisational structure and software development lifecycle processes through to great tools and platforms such as Azure DevOps, GitHub and Azure!
 
 # Find me and my stuff around the web 🌎
 
