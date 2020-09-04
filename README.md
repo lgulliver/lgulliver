@@ -13,7 +13,7 @@ I used to primarily be a .NET developer before making the move to be a DevOps Ar
 - 👩🏻‍💻 [Github](https://github.com/lgulliver)
 - 📣 [Twitter](https://twitter.com/lrgulliver)
 - 🤵🏻 [LinkedIn](https://www.linkedin.com/in/liamgulliver/)
-- 🎧 [Agile Engineering Podcast](https://open.spotify.com/show/7r3FceDwIN1X47c4xfyzTG?si=bHEnpS2QQq6iTqTD_D8Vmg)
+- 🎧 [Agile Engineering Podcast](https://agileengineeringpodcast.com)
 - 📅 [DevOps Notts on Meetup](https://www.meetup.com/DevOps-Notts/)
 - 📺 [DevOps Notts on YouTube](https://www.youtube.com/channel/UC0zWEAwC93LSdVaZjM1aKag)
 - ☕ [My Blog](https://lgulliver.github.io)
